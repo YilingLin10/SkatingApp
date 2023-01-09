@@ -1,0 +1,8 @@
+/cache
+/results
+/engine/VideoAlignment/data/flip
+/engine/alpha_pose/joints_detectors/Alphapose/models
+**/__pycache__/
+/engine/alphapose/src/torchsample
+/engine/JumpDetection/checkpoint
+/engine/VideoAlignment/checkpoint

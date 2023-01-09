@@ -1,0 +1,16 @@
+outputs/*
+joints_detectors/Alphapose/__pycache__
+joints_detectors/Alphapose/models
+
+*.npy
+*.so
+*.pyc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
+*/.tensorboard/*
+*/exp
+
+*.pth
+*.h5
+*.zip
+*.weights
