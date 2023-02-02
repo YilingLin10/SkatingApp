@@ -21,7 +21,7 @@ def index():
 
 def download_video(id):
     local_video_id = uuid.uuid1().hex
-    request_url = f"https://4be4-140-109-16-205.ap.ngrok.io/uploads/video/{id}.mp4"
+    request_url = f"https://30be-140-109-16-205.ap.ngrok.io/uploads/video/{id}.mp4"
     try:
         response = session.get(request_url, stream=True, verify=CONFIG.CA_path, timeout=200)
         if response.status_code == 200:

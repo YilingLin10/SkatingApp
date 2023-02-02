@@ -10,7 +10,7 @@ CONFIG.CA_path = "/home/lin10/projects/SkatingApp/certs.pem"
 CONFIG.video_buffer_dir = "/home/lin10/projects/SkatingApp/cache/video"
 
 # Path to scripts
-CONFIG.alphapose_script = "/home/lin10/projects/SkatingApp/engine/alphapose/run_alphapose.sh"
+CONFIG.alphapose_script = "/home/lin10/projects/SkatingApp/engine/alpha_pose/run_alphapose.sh"
 CONFIG.alignment_script = "/home/lin10/projects/SkatingApp/engine/VideoAlignment/run_alignment.sh"
 CONFIG.jump_script = "/home/lin10/projects/SkatingApp/engine/JumpDetection/run_jump_detection.sh"
 
